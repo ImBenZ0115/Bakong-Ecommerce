@@ -6,7 +6,7 @@ This Node.js server provides an API to generate **KHQR payment QR codes** and ve
 <table>
   <tr>
     <td>
-      <a href="https://www.ikhode.site/">
+      <a href="https://host.kesor.cam/">
         <img width="550" src="https://github.com/user-attachments/assets/8aead125-14da-4205-a01f-eb5eb9b8da5b" alt="Profile Image">
       </a>
     </td>
@@ -15,7 +15,6 @@ This Node.js server provides an API to generate **KHQR payment QR codes** and ve
       I'm currently exploring <strong>AI solutions</strong> and working with <strong>modern tech stacks</strong>. I'm also on a journey to level up my 
       <strong>Spaghetti Code</strong> skills. Support us by make some donate and I really appricate that.
       <br><br>
-      Got a question? Feel free to <a href="https://bio.ikhode.site/">contact me anytime</a>.
     </td>
   </tr>
 </table>
@@ -33,7 +32,7 @@ This Node.js server provides an API to generate **KHQR payment QR codes** and ve
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MyKhode/khqr-payment-server.git
+git clone https://github.com/
 cd khqr-payment-server
 ```
 
