@@ -16,7 +16,7 @@ This Node.js server provides an API to generate **KHQR payment QR codes** and ve
 
 ```bash
 git clone https://github.com/ImBenZ0115/Bakong-Ecommerce.git
-cd khqr-payment-server
+cd Bakong-Ecommerce
 ```
 
 ### 2. Install dependencies
