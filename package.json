@@ -1,0 +1,22 @@
+{
+  "name": "payment",
+  "version": "1.0.0",
+  "main": "payment-server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node payment-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "qrcode": "^1.5.4",
+    "ts-khqr": "^2.1.3",
+    "ws": "^8.18.1"
+  }
+}
