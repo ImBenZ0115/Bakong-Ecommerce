@@ -1,4 +1,5 @@
 # KHQR Payment Server
+# Localhost or use Machine in Cambodia Only
 
 This Node.js server provides an API to generate **KHQR payment QR codes** and verify payment status using the **Bakong API**. It supports **WebSocket** broadcasting for real-time payment notifications and sends Telegram alerts when payments are confirmed.
 
