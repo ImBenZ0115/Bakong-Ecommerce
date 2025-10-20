@@ -32,7 +32,7 @@ This Node.js server provides an API to generate **KHQR payment QR codes** and ve
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/](https://github.com/ImBenZ0115/Bakong-Ecommerce.git
+git clone https://github.com/https://github.com/ImBenZ0115/Bakong-Ecommerce.git
 cd khqr-payment-server
 ```
 
