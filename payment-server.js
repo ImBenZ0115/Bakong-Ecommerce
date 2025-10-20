@@ -24,12 +24,7 @@ const __dirname = path.dirname(__filename);
 app.use(cors({
   origin: [
     'http://localhost:5173',
-    'https://payment.ikhode.site',
-    'https://ai.bongrean.com',
-    'https://rdlabcenter.vercel.app',
-    'https://ikhode.site',
-    'https://www.ikhode.site',
-    'https://www.ai.bongrean.com'
+    'https://host.kesor.cam',
   ],
   methods: ['GET', 'POST', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
